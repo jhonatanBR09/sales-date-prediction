@@ -1,0 +1,901 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codifico\\SalesDatePrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\salesdateprediction.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:salesdateprediction.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A15F57-68ED-481B-8BF3-D797C35E64A1}|..\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj|d:\\codifico\\salesdateprediction.tests\\controllers\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A15F57-68ED-481B-8BF3-D797C35E64A1}|..\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj|d:\\codifico\\salesdateprediction.tests\\services\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\customerwithorderdatesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\customerwithorderdatesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A15F57-68ED-481B-8BF3-D797C35E64A1}|..\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj|d:\\codifico\\salesdateprediction.tests\\salesdateprediction.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\context\\dbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:context\\dbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\repositories\\implementations\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:repositories\\implementations\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\services\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\services\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\models\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:models\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|d:\\codifico\\salesdateprediction\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEACBDF-4EB5-4755-B3BD-F4A4BA011A98}|SalesDatePrediction.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerControllerTests.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction.Tests\\Controllers\\CustomerControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\SalesDatePrediction.Tests\\Controllers\\CustomerControllerTests.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction.Tests\\Controllers\\CustomerControllerTests.cs",
+              "RelativeToolTip": "..\\SalesDatePrediction.Tests\\Controllers\\CustomerControllerTests.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwGoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:33:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:22:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:24:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:26:23.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "Models\\Entities\\Customer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:29:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CustomerRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CustomerRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:55:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesDatePrediction.http",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\SalesDatePrediction.http",
+              "RelativeDocumentMoniker": "SalesDatePrediction.http",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\SalesDatePrediction.http",
+              "RelativeToolTip": "SalesDatePrediction.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-15T04:26:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerWithOrderDatesDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\CustomerWithOrderDatesDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CustomerWithOrderDatesDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\CustomerWithOrderDatesDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CustomerWithOrderDatesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:56:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:21:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction.Tests\\Services\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\SalesDatePrediction.Tests\\Services\\CustomerServiceTests.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction.Tests\\Services\\CustomerServiceTests.cs",
+              "RelativeToolTip": "..\\SalesDatePrediction.Tests\\Services\\CustomerServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:34:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:35:14.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:55:20.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Order.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:31:10.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:09:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:37:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAxwFEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:37:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:39:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesDatePrediction.Tests.csproj",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj",
+              "RelativeToolTip": "..\\SalesDatePrediction.Tests\\SalesDatePrediction.Tests.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T07:43:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Services\\OrderDetailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABQwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:05:19.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:23:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IOrderDetailService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IOrderDetailService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IOrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:04:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABQwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:10:05.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:49:20.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\OrderDetailDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\OrderDetailDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\OrderDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:37:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBDbContext.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Context\\DBDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\DBDbContext.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Context\\DBDbContext.cs",
+              "RelativeToolTip": "Context\\DBDbContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:02:08.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:35:25.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:49:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:24:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T05:03:25.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:49:56.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:45:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:49:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:45:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:55:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:31:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:35:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Shipper.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Shipper.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Shipper.cs",
+              "RelativeToolTip": "Models\\Entities\\Shipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:31:28.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwDoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:55:30.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA8wEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:31:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:49:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA2wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:35:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:26:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipperController.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Controllers\\ShipperController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:24:59.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:15:19.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IShipperRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IShipperRepository.cs",
+              "RelativeToolTip": "Interfaces\\IShipperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:49:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "Services\\ShipperService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\ShipperService.cs",
+              "RelativeToolTip": "Services\\ShipperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:17:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IShipperService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IShipperService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IShipperService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\Services\\IShipperService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IShipperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:17:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:15:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ShipperRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Repositories\\Implementations\\ShipperRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ShipperRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:55:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:49:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ShipperDto.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\ShipperDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ShipperDto.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\Models\\DTOs\\ShipperDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\ShipperDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:35:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Codifico\\SalesDatePrediction\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Codifico\\SalesDatePrediction\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:26:32.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

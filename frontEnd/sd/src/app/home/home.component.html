@@ -1,0 +1,31 @@
+<mat-table [dataSource]="customers" matSort>
+
+    <ng-container matColumnDef="customerName">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Customer Name </mat-header-cell>
+      <mat-cell *matCellDef="let customer"> {{customer.customerName}} </mat-cell>
+    </ng-container>
+  
+    <ng-container matColumnDef="lastOrderDate">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Last Order Date </mat-header-cell>
+      <mat-cell *matCellDef="let customer"> {{customer.lastOrderDate | date}} </mat-cell>
+    </ng-container>
+  
+    <ng-container matColumnDef="nextPredictedOrder">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Next Predicted Order </mat-header-cell>
+      <mat-cell *matCellDef="let customer"> {{customer.nextPredictedOrder | date}} </mat-cell>
+    </ng-container>
+  
+    <ng-container matColumnDef="actions">
+      <mat-header-cell *matHeaderCellDef> Actions </mat-header-cell>
+      <mat-cell *matCellDef="let customer">
+        <button mat-button (click)="viewOrders(customer.id)">View Orders</button>
+        <button mat-button (click)="newOrder(customer.id)">New Order</button>
+      </mat-cell>
+    </ng-container>
+  
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>
+  
+  <mat-paginator [pageSize]="10"></mat-paginator>
+  
